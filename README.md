@@ -14,9 +14,7 @@ Legado is a free and open source novel reader for Harmony OS.
 
 [![](https://img.shields.io/badge/-Contents:-696969.svg)](#contents) [![](https://img.shields.io/badge/-Function-F5F5F5.svg)](#Function-主要功能-) [![](https://img.shields.io/badge/-Community-F5F5F5.svg)](#Community-交流社区-) [![](https://img.shields.io/badge/-API-F5F5F5.svg)](#API-) [![](https://img.shields.io/badge/-Other-F5F5F5.svg)](#Other-其他-) [![](https://img.shields.io/badge/-Grateful-F5F5F5.svg)](#Grateful-感谢-) [![](https://img.shields.io/badge/-Interface-F5F5F5.svg)](#Interface-界面-)
 
-# 开发人员详见：[Contributors](https://github.com/mgz0227/legado-Harmony/graphs/contributors)
 # Function-主要功能 [![](https://img.shields.io/badge/-Function-F5F5F5.svg)](#Function-主要功能-)
-[English](English.md)
 
 <details><summary>中文</summary>
 1.自定义书源，自己设置规则，抓取网页数据，规则简单易懂，软件内有规则说明。<br>
@@ -47,8 +45,6 @@ Legado is a free and open source novel reader for Harmony OS.
 </a>
 
 # Other-其他 [![](https://img.shields.io/badge/-Other-F5F5F5.svg)](#Other-其他-)
-##### 免责声明
-https://gedoor.github.io/Disclaimer
 
 ##### Harmony阅读
 * [书源规则](https://mgz0227.github.io/The-tutorial-of-Legado/)
@@ -64,9 +60,6 @@ https://gedoor.github.io/Disclaimer
     <img src="https://img.shields.io/badge/-返回顶部-orange.svg" alt="#" align="right">
 </a>
 
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=mgz0227/legado-Harmony&type=Date)](https://star-history.com/#mgz0227/legado-Harmony&Date)
 
 # Interface-界面 [![](https://img.shields.io/badge/-Interface-F5F5F5.svg)](#Interface-界面-)
 <img src="png/start.png" width="270"><img src="png/bookshelf.png" width="270">
