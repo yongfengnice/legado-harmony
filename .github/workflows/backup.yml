@@ -20,7 +20,7 @@ jobs:
       working-directory: ${{ github.workspace }}
 
     - name: Upload backup to Artifact
-      uses: actions/upload-artifact@v4
+      uses: actions/upload-artifact@v6
       with:
         name: backup
         path:  ${{ github.workspace }}/*.tar.gz
